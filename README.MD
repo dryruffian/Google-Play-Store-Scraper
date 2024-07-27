@@ -113,7 +113,7 @@ This tool is for educational purposes only. Make sure to comply with Google Play
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/google-play-store-scraper/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/dryruffian/Google-Play-Store-Scraper/issues) if you want to contribute.
 
 ## License
 
