@@ -72,7 +72,7 @@ You can also import and use the scraper in your own Python scripts. Here's how:
 
 2. Import the `scrape_apps` function:
    ```python
-   from scraper import scrape_apps
+   from Main import scrape_apps
    ```
 
 3. Use the function in your script:
