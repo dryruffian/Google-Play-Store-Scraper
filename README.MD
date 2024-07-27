@@ -117,4 +117,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-[MIT](https://choosealicense.com/licenss/mit/)
+[MIT](https://github.com/dryruffian/Google-Play-Store-Scraper/blob/master/LICENSE.md)
