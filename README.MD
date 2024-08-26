@@ -37,7 +37,7 @@ This project is a Python-based scraper for the Google Play Store. It allows user
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/google-play-store-scraper.git
+   git clone https://github.com/dryruffian/google-play-store-scraper.git
    cd google-play-store-scraper
    ```
 
